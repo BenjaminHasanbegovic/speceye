@@ -17,10 +17,10 @@ The system uses **ESP32** and **Raspberry Pi Zero 2 W** working together through
 ---
 
 ## 📂 Project Structure
-speceye/
-├── esp32/ # C++ code for the ESP32
-├── pi2/ # C++ code for the Raspberry Pi Zero 2 W
-└── common/ # Shared C++ files used by both devices
+- speceye/
+- ├── esp32/ # C++ code for the ESP32
+- ├── pi2/ # C++ code for the Raspberry Pi Zero 2 W
+- └── common/ # Shared C++ files used by both devices
 
 ---
 
